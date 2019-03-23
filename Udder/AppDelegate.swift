@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Udder
 //
-//  Created by 許孜瑋 on 2019/3/22.
-//  Copyright © 2019 許孜瑋. All rights reserved.
+//  Created by  on 2019/3/22.
+//  Copyright © 2019 . All rights reserved.
 //
 
 import UIKit
